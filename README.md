@@ -26,6 +26,12 @@ Current opacity flow in the material graph:
 
 `CameraVector -> Dot(Z Up) -> Remap(Start/End) -> Clamp -> OneMinus -> Opacity`
 
+## Demo
+
+Angle-based ceiling fade preview:
+
+![AngleFade ceiling fade demo](docs/media/anglefade-demo.gif)
+
 ## Git LFS
 
 Git LFS is enabled for large Unreal and content assets, including:
